@@ -8,7 +8,7 @@ public class BinaryToDecimal {
         System.out.println(convertBinaryToDecimal(binaryString));
     }
 
-    private static int convertBinaryToDecimal(String binaryString) {
+    public static int convertBinaryToDecimal(String binaryString) {
         StringBuilder stringBuilder = new StringBuilder(binaryString);
         String reversedString = stringBuilder.reverse().toString();
         int sum = 0;
