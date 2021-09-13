@@ -8,7 +8,5 @@ V
 &src/test/java/BinaryToDecimalTest.java,5/1/5127657b8f0aecff56c07a1bf3135053fe58a710
 S
 #src/test/java/CaesarCipherTest.java,8/8/880be6435994afe9a0dc5267f80e22f1a5d05d2d
-V
-&src/test/java/DecimalToBinaryTest.java,4/5/458cfc575597e4ded2eadeda9c922323e91bc50f
 _
 /src/test/java/LongestCommonSubsequenceTest.java,3/f/3f476018c99f327ab7335c00c284cd18c0db6ada
